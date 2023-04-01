@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace VRHustler_Test
 {
     [BManager.Attributes.ModuleInfo("Test Project", "1.0", "BlazeBest")]
-    public class NameProject : VRModule
+    public class NameProject : BManager.VRModule
     {
         // Only: static Main() for Start()
         public static void Main()
