@@ -1,5 +1,7 @@
 # VRHustler_Test
 
+Test Mod/Cheat/Plugin for VRChat
+
 ```cs
 using System;
 using System.Collections.Generic;
