@@ -28,3 +28,7 @@ namespace VRHustler_Test
     }
 }
 ```
+
+| IF Community | Developer |
+|----------------|:-----------:|
+| http://discord.gg/EaReVF3B8U | BlazeBest#1284 |
