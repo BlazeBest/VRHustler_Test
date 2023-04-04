@@ -13,6 +13,8 @@ namespace VRHustler_Test
         public static void Main()
         {
             Console.WriteLine("Test Project: Hello world!");
+            GameObject go = GameObject.CreatePrimitive(PrimitiveType.Cube);
+            go.RegisterCustomComponent<MonoTestClass>();
         }
 
         // Not required, needed to ship the DLL
