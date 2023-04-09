@@ -31,4 +31,4 @@ namespace VRHustler_Test
 
 | IF Community | Developer |
 |----------------|:-----------:|
-| https://www.icefrag.ru | BlazeBest#1284 |
+| https://www.icefrag.ru/ | BlazeBest#1284 |
